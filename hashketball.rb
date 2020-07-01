@@ -1,4 +1,5 @@
-def game_hash()
+def game_hash
+
  epic_game = {
      
 home: {
